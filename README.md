@@ -37,13 +37,30 @@
 
 ###
 
+<!-- 👁️ Profile Views -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=LuizPauloSoares&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&stroke=9400D3" height="150" alt="streak graph" />
+  <img src="https://komarev.com/ghpvc/?username=LuizPauloSoares&color=9400D3&style=for-the-badge&label=VISITAS+AO+PERFIL" alt="profile views" />
+</div>
+
+###
+
+<!-- 🔥 Streak Stats (corrigido) -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=LuizPauloSoares&theme=dracula&hide_border=false&border_radius=5&stroke=9400D3&ring=9400D3&fire=9400D3&currStreakLabel=9400D3&locale=pt_BR" height="150" alt="streak graph" />
   <img src="https://github-readme-stats.vercel.app/api?username=LuizPauloSoares&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&title_color=9400D3&icon_color=9400D3&locale=en&hide_border=false" height="150" alt="stats graph" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LuizPauloSoares&locale=en&hide_title=false&layout=compact&card_width=320&hide_border=false&theme=dracula&title_color=9400D3&text_color=ffffff" height="165" alt="languages graph" />
+</div>
+
+<!-- 🏆 Trophies -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=LuizPauloSoares&theme=dracula&no-frame=false&no-bg=false&margin-w=4&column=7" alt="trophies" />
+</div>
+
+<!-- 📈 Activity Graph (corrigido) -->
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LuizPauloSoares&radius=16&theme=dracula&area=true&color=9400D3" height="300" alt="activity-graph graph" />
 </div>
 
