@@ -38,13 +38,13 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=LuizPauloSoares&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3&side_sub_text=9400D3&stroke=9400D3" height="150" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=LuizPauloSoares&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&title_color=9400D3&icon_color=9400D3&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
+  <img src="https://streak-stats.demolab.com?user=LuizPauloSoares&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&stroke=9400D3" height="150" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LuizPauloSoares&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&title_color=9400D3&icon_color=9400D3&locale=en&hide_border=false" height="150" alt="stats graph" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LuizPauloSoares&locale=en&hide_title=false&layout=compact&card_width=320&hide_border=false&theme=dracula&title_color=9400D3&text_color=ffffff" height="165" alt="languages graph" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LuizPauloSoares&radius=16&theme=dracula&area=true&order=5&color=9400D3" height="300" alt="activity-graph graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LuizPauloSoares&radius=16&theme=dracula&area=true&color=9400D3" height="300" alt="activity-graph graph" />
 </div>
 
 ###
@@ -90,5 +90,5 @@
 </div>
 
 <div align="center">
-  <img src="https://count.getloli.com/@:LuizPauloSoares?theme=gelbooru&padding=7&scale=1&align=top&pixelated=1&darkmode=auto" style="filter: hue-rotate(280deg) saturate(1.5);" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&reversal=false&color=9400D3" />
 </div>
