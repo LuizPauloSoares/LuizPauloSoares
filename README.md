@@ -92,9 +92,11 @@
   <a href="https://www.linkedin.com/in/luiz-paulo-soares/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/lu1z_st/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="37" height="25" alt="instagram logo" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:luizdayspring@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="37" height="25" alt="gmail logo" />
   </a>
