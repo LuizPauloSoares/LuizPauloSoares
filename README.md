@@ -1,8 +1,12 @@
+<div align="right">
+
+[![EN](https://img.shields.io/badge/lang-EN-9400D3?style=for-the-badge&logo=googletranslate&logoColor=white)](./README.en.md)
+
+</div>
+
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=9400D3" />
 </div>
-
-
 
 <h1 align="center">Luiz Paulo Soares</h1>
 
@@ -24,7 +28,7 @@
     Tenho foco total no ecossistema <b>Java</b>, <b>SQL Server</b> e <b>Python</b>, <br>
     sempre buscando as melhores práticas de Clean Code e segurança.
   </p>
-  
+
   <p align="center">
     🚀 Desenvolvendo projetos práticos como Sistemas de Gestão e Integrações de APIs.<br>
     🎓 Buscando minha primeira oportunidade como Desenvolvedor Junior ou Estagiário.
@@ -44,9 +48,9 @@
 
 ###
 
-<!-- 🔥 Streak Stats (corrigido) -->
+<!-- 🔥 Streak Stats -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=LuizPauloSoares&theme=dracula&hide_border=false&border_radius=5&stroke=9400D3&ring=9400D3&fire=9400D3&currStreakLabel=9400D3&locale=pt_BR" height="150" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=LuizPauloSoares&theme=dracula&hide_border=false&border_radius=5&stroke=9400D3&ring=9400D3&fire=9400D3&currStreakLabel=9400D3&locale=pt_BR" height="150" alt="streak graph" />
   <img src="https://github-readme-stats.vercel.app/api?username=LuizPauloSoares&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&title_color=9400D3&icon_color=9400D3&locale=en&hide_border=false" height="150" alt="stats graph" />
 </div>
 
@@ -59,30 +63,37 @@
   <img src="https://github-profile-trophy.vercel.app/?username=LuizPauloSoares&theme=dracula&no-frame=false&no-bg=false&margin-w=4&column=7" alt="trophies" />
 </div>
 
-<!-- 📈 Activity Graph (corrigido) -->
+<!-- 📈 Activity Graph -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LuizPauloSoares&radius=16&theme=dracula&area=true&color=9400D3" height="300" alt="activity-graph graph" />
 </div>
 
 ###
 
-<h2 align="left" style="color: #9400D3;">🛠️ Tecnologias </h2>
+<h2 align="left" style="color: #9400D3;">🛠️ Tecnologias</h2>
 <div style="background-color: #9400D3; height: 3px; width: 100%;"></div>
 <br>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="60" alt="microsoftsqlserver logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo" />
-</div>
+### 🌐 Frontend
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js" alt="Frontend Skills" /></a>
 
-<br>
+### ⚙️ Backend
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,nodejs,java,kotlin" alt="Backend Skills" /></a>
+
+### 📱 Mobile
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=dart,flutter" alt="Mobile Skills" /></a>
+
+### 🗄️ Bancos de Dados
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="48" alt="sql server logo" />
+  &nbsp;
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,sqlite" alt="Database Skills" /></a>
+</p>
+
+### 🧰 Ferramentas & Ambiente
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,vscode,figma,arduino" alt="Tool Skills" /></a>
+
+---
 
 <h2 align="left" style="color: #9400D3;">📫 Contatos</h2>
 <div style="background-color: #9400D3; height: 3px; width: 100%;"></div>
